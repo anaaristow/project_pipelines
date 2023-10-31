@@ -40,19 +40,17 @@ Here was done the cleaning, adjustments, and conversions. Key steps that was don
    1. Are runners getting faster over time?
       - For exploring this hypothesis, a line plot. This line plot allowed us to examine how race times have changed over the years, with a specific focus on differences between male and female runners.
 
-![Alt text](image.png)
-
+![Alt text](faster.png)
    2. Does the location where the marathon takes place impact race results?
       - A bar chart was generated to visualize the impact of marathon locations on race times by gender. This plot helps in understanding whether the location of the marathon influences the race results. The bars represent different marathons, and the y-axis represents the race times
 
-![Alt text](image-1.png)
+![Alt text](impact_marathon.png)
 
    3. Does the Human Development Index (HDI) of the country where winners are born have an impact on their success?
       - A scatter plot was created to examine the correlation between the total number of winners from a country and the Human Development Index (HDI) of that country. This plot allows you to assess whether there is a relationship between the success of marathon winners and the HDI of their home countries.
 
-![Alt text](image-2.png)
+![Alt text](image.png)
 
-      - These plots are crucial in assessing the validity of the hypotheses and gaining insights into the relationships and trends in the data. 
 
 
 ## Conclusion
