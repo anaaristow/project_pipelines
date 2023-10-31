@@ -1,0 +1,542 @@
+,year,winner,gender,country,time,marathon,date,time_race,minutes
+0,2018,Dickson Chumba,Male,Kenya,04/05/2018 02:05,Tokyo,04/05/2018,02:05,125
+1,2018,Birhane Dibaba,Female,Ethiopia,04/05/2018 02:19,Tokyo,04/05/2018,02:19,139
+2,2017,Wilson Kipsang,Male,Kenya,04/05/2018 02:03,Tokyo,04/05/2018,02:03,123
+3,2017,Sarah Chepchirchir,Female,Kenya,04/05/2018 02:19,Tokyo,04/05/2018,02:19,139
+4,2016,Feyisa Lilesa,Male,Ethiopia,04/05/2018 02:06,Tokyo,04/05/2018,02:06,126
+5,2016,Helah Kiprop,Female,Kenya,04/05/2018 02:21,Tokyo,04/05/2018,02:21,141
+6,2015,Endeshaw Negesse,Male,Ethiopia,04/05/2018 02:06,Tokyo,04/05/2018,02:06,126
+7,2015,Birhane Dibaba,Female,Ethiopia,04/05/2018 02:23,Tokyo,04/05/2018,02:23,143
+8,2014,Dickson Chumba,Male,Kenya,04/05/2018 02:05,Tokyo,04/05/2018,02:05,125
+9,2014,Tirfi Tsegaye,Female,Ethiopia,04/05/2018 02:22,Tokyo,04/05/2018,02:22,142
+10,2013,Dennis Kimetto,Male,Kenya,04/05/2018 02:06,Tokyo,04/05/2018,02:06,126
+11,2013,Aberu Kebede,Female,Ethiopia,04/05/2018 02:25,Tokyo,04/05/2018,02:25,145
+12,2012,Michael Kipyego,Male,Kenya,04/05/2018 02:07,Tokyo,04/05/2018,02:07,127
+13,2012,Atsede Habtamu,Female,Ethiopia,04/05/2018 02:25,Tokyo,04/05/2018,02:25,145
+14,2011,Hailu Mekonnen,Male,Ethiopia,04/05/2018 02:07,Tokyo,04/05/2018,02:07,127
+15,2011,Noriko Higuchi,Female,Japan,04/05/2018 02:28,Tokyo,04/05/2018,02:28,148
+16,2010,Masakazu Fujiwara,Male,Japan,04/05/2018 02:12,Tokyo,04/05/2018,02:12,132
+17,2010,Alevtina Biktimirova,Female,Russia,04/05/2018 02:34,Tokyo,04/05/2018,02:34,154
+18,2009,Salim Kipsang,Male,Kenya,04/05/2018 02:10,Tokyo,04/05/2018,02:10,130
+19,2009,Mizuho Nasukawa,Female,Japan,04/05/2018 02:25,Tokyo,04/05/2018,02:25,145
+20,2008,Viktor Röthlin,Male,Switzerland,04/05/2018 02:07,Tokyo,04/05/2018,02:07,127
+21,2008,Claudia Dreher,Female,Germany,04/05/2018 02:35,Tokyo,04/05/2018,02:35,155
+22,2007,Daniel Njenga,Male,Kenya,04/05/2018 02:09,Tokyo,04/05/2018,02:09,129
+23,2007,Hitomi Niiya,Female,Japan,04/05/2018 02:31,Tokyo,04/05/2018,02:31,151
+24,2017,Eliud Kipchoge,Male,Kenya,04/05/2018 02:03,Berlin,04/05/2018,02:03,123
+25,2017,Gladys Cherono,Female,Kenya,04/05/2018 02:20,Berlin,04/05/2018,02:20,140
+26,2016,Kenenisa Bekele,Male,Ethiopia,04/05/2018 02:03,Berlin,04/05/2018,02:03,123
+27,2016,Aberu Kebede,Female,Ethiopia,04/05/2018 02:20,Berlin,04/05/2018,02:20,140
+28,2015,Eliud Kipchoge,Male,Kenya,04/05/2018 02:04,Berlin,04/05/2018,02:04,124
+29,2015,Gladys Cherono,Female,Kenya,04/05/2018 02:19,Berlin,04/05/2018,02:19,139
+30,2014,Dennis Kimetto,Male,Kenya,04/05/2018 02:02,Berlin,04/05/2018,02:02,122
+31,2014,Tirfi Tsegaye,Female,Ethiopia,04/05/2018 02:20,Berlin,04/05/2018,02:20,140
+32,2013,Wilson Kipsang,Male,Kenya,04/05/2018 02:03,Berlin,04/05/2018,02:03,123
+33,2013,Florence Kiplagat,Female,Kenya,04/05/2018 02:21,Berlin,04/05/2018,02:21,141
+34,2012,Geoffrey Mutai,Male,Kenya,04/05/2018 02:04,Berlin,04/05/2018,02:04,124
+35,2012,Aberu Kebede,Female,Ethiopia,04/05/2018 02:20,Berlin,04/05/2018,02:20,140
+36,2011,Patrick Musyoki,Male,Kenya,04/05/2018 02:03,Berlin,04/05/2018,02:03,123
+37,2011,Florence Kiplagat,Female,Kenya,04/05/2018 02:19,Berlin,04/05/2018,02:19,139
+38,2010,Patrick Musyoki,Male,Kenya,04/05/2018 02:05,Berlin,04/05/2018,02:05,125
+39,2010,Aberu Kebede,Female,Ethiopia,04/05/2018 02:23,Berlin,04/05/2018,02:23,143
+40,2009,Haile Gebrselassie,Male,Ethiopia,04/05/2018 02:06,Berlin,04/05/2018,02:06,126
+41,2009,Atsede Habtamu,Female,Ethiopia,04/05/2018 02:24,Berlin,04/05/2018,02:24,144
+42,2008,Haile Gebrselassie,Male,Ethiopia,04/05/2018 02:03,Berlin,04/05/2018,02:03,123
+43,2008,Irina Mikitenko,Female,Germany,04/05/2018 02:19,Berlin,04/05/2018,02:19,139
+44,2007,Haile Gebrselassie,Male,Ethiopia,04/05/2018 02:04,Berlin,04/05/2018,02:04,124
+45,2007,Gete Wami,Female,Ethiopia,04/05/2018 02:23,Berlin,04/05/2018,02:23,143
+46,2006,Haile Gebrselassie,Male,Ethiopia,04/05/2018 02:05,Berlin,04/05/2018,02:05,125
+47,2006,Gete Wami,Female,Ethiopia,04/05/2018 02:21,Berlin,04/05/2018,02:21,141
+48,2005,Philip Manyim,Male,Kenya,04/05/2018 02:07,Berlin,04/05/2018,02:07,127
+49,2005,Noguchi,Female,Japan,04/05/2018 02:19,Berlin,04/05/2018,02:19,139
+50,2004,Felix Limo,Male,Kenya,04/05/2018 02:06,Berlin,04/05/2018,02:06,126
+51,2004,Yoko Shibui,Female,Japan,04/05/2018 02:19,Berlin,04/05/2018,02:19,139
+52,2003,Paul Tergat,Male,Kenya,04/05/2018 02:04,Berlin,04/05/2018,02:04,124
+53,2003,Yasuko Hashimoto,Female,Japan,04/05/2018 02:26,Berlin,04/05/2018,02:26,146
+54,2002,Raymond Kipkoech,Male,Kenya,04/05/2018 02:06,Berlin,04/05/2018,02:06,126
+55,2002,Naoko Takahashi,Female,Japan,04/05/2018 02:21,Berlin,04/05/2018,02:21,141
+56,2001,Joseph Ngolepus,Male,Kenya,04/05/2018 02:08,Berlin,04/05/2018,02:08,128
+57,2001,Naoko Takahashi,Female,Japan,04/05/2018 02:19,Berlin,04/05/2018,02:19,139
+58,2000,Simon Biwott,Male,Kenya,04/05/2018 02:07,Berlin,04/05/2018,02:07,127
+59,2000,Kazumi Matsuo,Female,Japan,04/05/2018 02:26,Berlin,04/05/2018,02:26,146
+60,1999,Josephat Kiprono,Male,Kenya,04/05/2018 02:06,Berlin,04/05/2018,02:06,126
+61,1999,Tegla Loroupe,Female,Kenya,04/05/2018 02:20,Berlin,04/05/2018,02:20,140
+62,1998,Ronaldo da Costa,Male,Brazil,04/05/2018 02:06,Berlin,04/05/2018,02:06,126
+63,1998,Marleen Renders,Female,Belgium,04/05/2018 02:25,Berlin,04/05/2018,02:25,145
+64,1997,Elijah Lagat,Male,Kenya,04/05/2018 02:07,Berlin,04/05/2018,02:07,127
+65,1997,Catherina McKiernan,Female,Ireland,04/05/2018 02:23,Berlin,04/05/2018,02:23,143
+66,1996,Abel Antón,Male,Spain,04/05/2018 02:09,Berlin,04/05/2018,02:09,129
+67,1996,Colleen De Reuck,Female,South Africa,04/05/2018 02:26,Berlin,04/05/2018,02:26,146
+68,1995,Sammy Lelei,Male,Kenya,04/05/2018 02:07,Berlin,04/05/2018,02:07,127
+69,1995,Uta Pippig,Female,Germany,04/05/2018 02:25,Berlin,04/05/2018,02:25,145
+70,1994,António Pinto,Male,Portugal,04/05/2018 02:08,Berlin,04/05/2018,02:08,128
+71,1994,Katrin Dörre-Heinig,Female,Germany,04/05/2018 02:25,Berlin,04/05/2018,02:25,145
+72,1993,Xolile Yawa,Male,South Africa,04/05/2018 02:10,Berlin,04/05/2018,02:10,130
+73,1993,Renata Kokowska,Female,Poland,04/05/2018 02:26,Berlin,04/05/2018,02:26,146
+74,1992,David Tsebe,Male,South Africa,04/05/2018 02:08,Berlin,04/05/2018,02:08,128
+75,1992,Uta Pippig,Female,Germany,04/05/2018 02:30,Berlin,04/05/2018,02:30,150
+76,1991,Steve Brace,Male,United Kingdom,04/05/2018 02:10,Berlin,04/05/2018,02:10,130
+77,1991,Renata Kokowska,Female,Poland,04/05/2018 02:27,Berlin,04/05/2018,02:27,147
+78,1990,Steve Moneghetti,Male,Australia,04/05/2018 02:08,Berlin,04/05/2018,02:08,128
+79,1990,Uta Pippig,Female,Germany,04/05/2018 02:28,Berlin,04/05/2018,02:28,148
+80,1989,Alfredo Shahanga,Male,Tanzania,04/05/2018 02:10,Berlin,04/05/2018,02:10,130
+81,1989,Päivi Tikkanen,Female,Finland,04/05/2018 02:28,Berlin,04/05/2018,02:28,148
+82,1988,Suleiman Nyambui,Male,Tanzania,04/05/2018 02:11,Berlin,04/05/2018,02:11,131
+83,1988,Renata Kokowska,Female,Poland,04/05/2018 02:29,Berlin,04/05/2018,02:29,149
+84,1987,Suleiman Nyambui,Male,Tanzania,04/05/2018 02:11,Berlin,04/05/2018,02:11,131
+85,1987,Kerstin Preßler,Female,Germany,04/05/2018 02:31,Berlin,04/05/2018,02:31,151
+86,1986,Boguslaw Psujek,Male,Poland,04/05/2018 02:11,Berlin,04/05/2018,02:11,131
+87,1986,Charlotte Teske,Female,Germany,04/05/2018 02:32,Berlin,04/05/2018,02:32,152
+88,1985,Jimmy Ashworth,Male,United Kingdom,04/05/2018 02:11,Berlin,04/05/2018,02:11,131
+89,1985,Magda Ilands,Female,Belgium,04/05/2018 02:34,Berlin,04/05/2018,02:34,154
+90,1984,John Skovbjerg,Male,Denmark,04/05/2018 02:13,Berlin,04/05/2018,02:13,133
+91,1984,Ágnes Sipka,Female,Hungary,04/05/2018 02:39,Berlin,04/05/2018,02:39,159
+92,1983,Karel Lismont,Male,Belgium,04/05/2018 02:13,Berlin,04/05/2018,02:13,133
+93,1983,Karen Holdsworth,Female,United Kingdom,04/05/2018 02:40,Berlin,04/05/2018,02:40,160
+94,1982,Domingo Tibaduiza,Male,Colombia,04/05/2018 02:14,Berlin,04/05/2018,02:14,134
+95,1982,Jean Lochhead,Female,United Kingdom,04/05/2018 02:47,Berlin,04/05/2018,02:47,167
+96,1981,Ian Ray,Male,United Kingdom,04/05/2018 02:15,Berlin,04/05/2018,02:15,135
+97,1981,Angelika Stephan,Female,Germany,04/05/2018 02:47,Berlin,04/05/2018,02:47,167
+98,1980,Ingo Sensburg,Male,Germany,04/05/2018 02:16,Berlin,04/05/2018,02:16,136
+99,1980,Gerlinde Püttmann,Female,Germany,04/05/2018 02:47,Berlin,04/05/2018,02:47,167
+100,1979,Ingo Sensburg,Male,Germany,04/05/2018 02:21,Berlin,04/05/2018,02:21,141
+101,1979,Jutta von Haase,Female,Germany,04/05/2018 03:07,Berlin,04/05/2018,03:07,187
+102,1978,Michael Spöttel,Male,Germany,04/05/2018 02:20,Berlin,04/05/2018,02:20,140
+103,1978,Ursula Blaschke,Female,Germany,04/05/2018 02:57,Berlin,04/05/2018,02:57,177
+104,1977,Günter Mielke,Male,Germany,04/05/2018 02:15,Berlin,04/05/2018,02:15,135
+105,1977,Christa Vahlensieck,Female,Germany,04/05/2018 02:34,Berlin,04/05/2018,02:34,154
+106,1976,Ingo Sensburg,Male,Germany,04/05/2018 02:23,Berlin,04/05/2018,02:23,143
+107,1976,Jutta von Haase,Female,Germany,04/05/2018 03:05,Berlin,04/05/2018,03:05,185
+108,1975,Ralf Bochröder,Male,Germany,04/05/2018 02:47,Berlin,04/05/2018,02:47,167
+109,1975,Christin Bochröder,Female,Germany,04/05/2018 02:59,Berlin,04/05/2018,02:59,179
+110,1974,Günter Hallas,Male,Germany,04/05/2018 02:44,Berlin,04/05/2018,02:44,164
+111,1974,Jutta von Haase,Female,Germany,04/05/2018 03:22,Berlin,04/05/2018,03:22,202
+112,2018,Yuki Kawauchi,Male,Japan,04/05/2018 02:15,Boston,04/05/2018,02:15,135
+113,2018,Desi Linden,Female,United States,04/05/2018 02:39,Boston,04/05/2018,02:39,159
+114,2017,Geoffrey Kirui,Male,Kenya,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+115,2017,Edna Kiplagat,Female,Kenya,04/05/2018 02:21,Boston,04/05/2018,02:21,141
+116,2016,Lemi Berhanu Hayle,Male,Ethiopia,04/05/2018 02:12,Boston,04/05/2018,02:12,132
+117,2016,Atsede Baysa,Female,Ethiopia,04/05/2018 02:29,Boston,04/05/2018,02:29,149
+118,2015,Lelisa Desisa Benti,Male,Ethiopia,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+119,2015,Caroline Rotich,Female,Kenya,04/05/2018 02:24,Boston,04/05/2018,02:24,144
+120,2014,Meb Keflezighi,Male,United States,04/05/2018 02:08,Boston,04/05/2018,02:08,128
+121,2014,Rita Jeptoo,Female,Kenya,04/05/2018 02:18,Boston,04/05/2018,02:18,138
+122,2014,Bizunesh Deba,Female,Ethiopia,04/05/2018 02:19,Boston,04/05/2018,02:19,139
+123,2013,Lelisa Desisa Benti,Male,Ethiopia,04/05/2018 02:10,Boston,04/05/2018,02:10,130
+124,2013,Rita Jeptoo,Female,Kenya,04/05/2018 02:26,Boston,04/05/2018,02:26,146
+125,2012,Wesley Korir,Male,Kenya,04/05/2018 02:12,Boston,04/05/2018,02:12,132
+126,2012,Sharon Cherop,Female,Kenya,04/05/2018 02:31,Boston,04/05/2018,02:31,151
+127,2011,Geoffrey Mutai,Male,Kenya,04/05/2018 02:03,Boston,04/05/2018,02:03,123
+128,2011,Caroline Kilel,Female,Kenya,04/05/2018 02:22,Boston,04/05/2018,02:22,142
+129,2010,Robert Kiprono Cheruiyot,Male,Kenya,04/05/2018 02:05,Boston,04/05/2018,02:05,125
+130,2010,Teyba Erkesso,Female,Ethiopia,04/05/2018 02:26,Boston,04/05/2018,02:26,146
+131,2009,Deriba Merga,Male,Ethiopia,04/05/2018 02:08,Boston,04/05/2018,02:08,128
+132,2009,Salina Kosgei,Female,Kenya,04/05/2018 02:32,Boston,04/05/2018,02:32,152
+133,2008,Robert Kipkoech Cheruiyot,Male,Kenya,04/05/2018 02:07,Boston,04/05/2018,02:07,127
+134,2008,Dire Tune,Female,Ethiopia,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+135,2007,Robert Kipkoech Cheruiyot,Male,Kenya,04/05/2018 02:14,Boston,04/05/2018,02:14,134
+136,2007,Lidiya Grigoryeva,Female,Russia,04/05/2018 02:29,Boston,04/05/2018,02:29,149
+137,2006,Robert Kipkoech Cheruiyot,Male,Kenya,04/05/2018 02:07,Boston,04/05/2018,02:07,127
+138,2006,Rita Jeptoo,Female,Kenya,04/05/2018 02:23,Boston,04/05/2018,02:23,143
+139,2005,Hailu Negussie,Male,Ethiopia,04/05/2018 02:11,Boston,04/05/2018,02:11,131
+140,2005,Catherine Ndereba,Female,Kenya,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+141,2004,Timothy Cherigat,Male,Kenya,04/05/2018 02:10,Boston,04/05/2018,02:10,130
+142,2004,Catherine Ndereba,Female,Kenya,04/05/2018 02:24,Boston,04/05/2018,02:24,144
+143,2003,Robert Kipkoech Cheruiyot,Male,Kenya,04/05/2018 02:10,Boston,04/05/2018,02:10,130
+144,2003,Svetlana Zakharova,Female,Russia,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+145,2002,Rodgers Rop,Male,Kenya,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+146,2002,Margaret Okayo,Female,Kenya,04/05/2018 02:20,Boston,04/05/2018,02:20,140
+147,2001,Lee Bong-Ju,Male,South Korea,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+148,2001,Catherine Ndereba,Female,Kenya,04/05/2018 02:23,Boston,04/05/2018,02:23,143
+149,2000,Elijah Lagat,Male,Kenya,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+150,2000,Catherine Ndereba,Female,Kenya,04/05/2018 02:26,Boston,04/05/2018,02:26,146
+151,1999,Joseph Chebet,Male,Kenya,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+152,1999,Fatuma Roba,Female,Ethiopia,04/05/2018 02:23,Boston,04/05/2018,02:23,143
+153,1998,Moses Tanui,Male,Kenya,04/05/2018 02:07,Boston,04/05/2018,02:07,127
+154,1998,Fatuma Roba,Female,Ethiopia,04/05/2018 02:23,Boston,04/05/2018,02:23,143
+155,1997,Lameck Aguta,Male,Kenya,04/05/2018 02:10,Boston,04/05/2018,02:10,130
+156,1997,Fatuma Roba,Female,Ethiopia,04/05/2018 02:26,Boston,04/05/2018,02:26,146
+157,1996,Moses Tanui,Male,Kenya,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+158,1996,Uta Pippig,Female,Germany,04/05/2018 02:27,Boston,04/05/2018,02:27,147
+159,1995,Cosmas Ndeti,Male,Kenya,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+160,1995,Uta Pippig,Female,Germany,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+161,1994,Cosmas Ndeti,Male,Kenya,04/05/2018 02:07,Boston,04/05/2018,02:07,127
+162,1994,Uta Pippig,Female,Germany,04/05/2018 02:21,Boston,04/05/2018,02:21,141
+163,1993,Cosmas Ndeti,Male,Kenya,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+164,1993,Olga Markova,Female,Russia,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+165,1992,Ibrahim Hussein,Male,Kenya,04/05/2018 02:08,Boston,04/05/2018,02:08,128
+166,1992,Olga Markova,Female,Russia,04/05/2018 02:23,Boston,04/05/2018,02:23,143
+167,1991,Ibrahim Hussein,Male,Kenya,04/05/2018 02:11,Boston,04/05/2018,02:11,131
+168,1991,Wanda Panfil,Female,Poland,04/05/2018 02:24,Boston,04/05/2018,02:24,144
+169,1990,Gelindo Bordin,Male,Italy,04/05/2018 02:08,Boston,04/05/2018,02:08,128
+170,1990,Rosa Mota,Female,Portugal,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+171,1989,Abebe Mekonnen,Male,Ethiopia,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+172,1989,Ingrid Kristiansen,Female,Norway,04/05/2018 02:24,Boston,04/05/2018,02:24,144
+173,1988,Ibrahim Hussein,Male,Kenya,04/05/2018 02:08,Boston,04/05/2018,02:08,128
+174,1988,Rosa Mota,Female,Portugal,04/05/2018 02:24,Boston,04/05/2018,02:24,144
+175,1987,Toshihiko Seko,Male,Japan,04/05/2018 02:11,Boston,04/05/2018,02:11,131
+176,1987,Rosa Mota,Female,Portugal,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+177,1986,Robert de Castella,Male,Australia,04/05/2018 02:07,Boston,04/05/2018,02:07,127
+178,1986,Ingrid Kristiansen,Female,Norway,04/05/2018 02:24,Boston,04/05/2018,02:24,144
+179,1985,Geoff Smith,Male,United Kingdom,04/05/2018 02:14,Boston,04/05/2018,02:14,134
+180,1985,Lisa Larsen Weidenbach,Female,United States,04/05/2018 02:34,Boston,04/05/2018,02:34,154
+181,1984,Geoff Smith,Male,United Kingdom,04/05/2018 02:10,Boston,04/05/2018,02:10,130
+182,1984,Lorraine Moller,Female,New Zealand,04/05/2018 02:29,Boston,04/05/2018,02:29,149
+183,1983,Greg Meyer,Male,United States,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+184,1983,Joan Benoit,Female,United States,04/05/2018 02:22,Boston,04/05/2018,02:22,142
+185,1982,Alberto Salazar,Male,United States,04/05/2018 02:08,Boston,04/05/2018,02:08,128
+186,1982,Charlotte Teske,Female,Germany,04/05/2018 02:29,Boston,04/05/2018,02:29,149
+187,1981,Toshihiko Seko,Male,Japan,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+188,1981,Allison Roe,Female,New Zealand,04/05/2018 02:26,Boston,04/05/2018,02:26,146
+189,1980,Bill Rodgers,Male,United States,04/05/2018 02:12,Boston,04/05/2018,02:12,132
+190,1980,Jacqueline Gareau,Female,Canada,04/05/2018 02:34,Boston,04/05/2018,02:34,154
+191,1979,Bill Rodgers,Male,United States,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+192,1979,Joan Benoit,Female,United States,04/05/2018 02:35,Boston,04/05/2018,02:35,155
+193,1978,Bill Rodgers,Male,United States,04/05/2018 02:10,Boston,04/05/2018,02:10,130
+194,1978,Gayle Barron,Female,United States,04/05/2018 02:44,Boston,04/05/2018,02:44,164
+195,1977,Jerome Drayton,Male,Canada,04/05/2018 02:14,Boston,04/05/2018,02:14,134
+196,1977,Miki Gorman,Female,United States,04/05/2018 02:48,Boston,04/05/2018,02:48,168
+197,1976,Jack Fultz,Male,United States,04/05/2018 02:20,Boston,04/05/2018,02:20,140
+198,1976,Kim Merritt,Female,United States,04/05/2018 02:47,Boston,04/05/2018,02:47,167
+199,1975,Bill Rodgers,Male,United States,04/05/2018 02:09,Boston,04/05/2018,02:09,129
+200,1975,Liane Winter,Female,Germany,04/05/2018 02:42,Boston,04/05/2018,02:42,162
+201,1974,Neil Cusack,Male,Ireland,04/05/2018 02:13,Boston,04/05/2018,02:13,133
+202,1974,Miki Gorman,Female,United States,04/05/2018 02:47,Boston,04/05/2018,02:47,167
+203,1973,Jon Anderson,Male,United States,04/05/2018 02:16,Boston,04/05/2018,02:16,136
+204,1973,Jacqueline Hansen,Female,United States,04/05/2018 03:05,Boston,04/05/2018,03:05,185
+205,1972,Olavi Suomalainen,Male,Finland,04/05/2018 02:15,Boston,04/05/2018,02:15,135
+206,1972,Nina Kuscsik,Female,United States,04/05/2018 03:10,Boston,04/05/2018,03:10,190
+207,1971,Álvaro Mejía,Male,Colombia,04/05/2018 02:18,Boston,04/05/2018,02:18,138
+208,1971,Sara Mae Berman,Female,United States,04/05/2018 03:08,Boston,04/05/2018,03:08,188
+209,1970,Ron Hill,Male,United Kingdom,04/05/2018 02:10,Boston,04/05/2018,02:10,130
+210,1970,Sara Mae Berman,Female,United States,04/05/2018 03:05,Boston,04/05/2018,03:05,185
+211,1969,Yoshiaki Unetani,Male,Japan,04/05/2018 02:13,Boston,04/05/2018,02:13,133
+212,1969,Sara Mae Berman,Female,United States,04/05/2018 03:22,Boston,04/05/2018,03:22,202
+213,1968,Amby Burfoot,Male,United States,04/05/2018 02:22,Boston,04/05/2018,02:22,142
+214,1968,Bobbi Gibb,Female,United States,04/05/2018 03:30,Boston,04/05/2018,03:30,210
+215,1967,Dave McKenzie,Male,New Zealand,04/05/2018 02:15,Boston,04/05/2018,02:15,135
+216,1967,Bobbi Gibb,Female,United States,04/05/2018 03:27,Boston,04/05/2018,03:27,207
+217,1966,Kenji Kimihara,Male,Japan,04/05/2018 02:17,Boston,04/05/2018,02:17,137
+218,1966,Bobbi Gibb,Female,United States,04/05/2018 03:21,Boston,04/05/2018,03:21,201
+219,1965,Morio Shigematsu,Male,Japan,04/05/2018 02:16,Boston,04/05/2018,02:16,136
+220,1964,Aurèle Vandendriessche,Male,Belgium,04/05/2018 02:19,Boston,04/05/2018,02:19,139
+221,1963,Aurèle Vandendriessche,Male,Belgium,04/05/2018 02:18,Boston,04/05/2018,02:18,138
+222,1962,Eino Oksanen,Male,Finland,04/05/2018 02:23,Boston,04/05/2018,02:23,143
+223,1961,Eino Oksanen,Male,Finland,04/05/2018 02:23,Boston,04/05/2018,02:23,143
+224,1960,Paavo Kotila,Male,Finland,04/05/2018 02:20,Boston,04/05/2018,02:20,140
+225,1959,Eino Oksanen,Male,Finland,04/05/2018 02:22,Boston,04/05/2018,02:22,142
+226,1958,Franjo Mihalic,Male,Yugoslavia,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+227,1957,John J. Kelley,Male,United States,04/05/2018 02:20,Boston,04/05/2018,02:20,140
+228,1956,Antti Viskari,Male,Finland,04/05/2018 02:14,Boston,04/05/2018,02:14,134
+229,1955,Hideo Hamamura,Male,Japan,04/05/2018 02:18,Boston,04/05/2018,02:18,138
+230,1954,Veikko Karvonen,Male,Finland,04/05/2018 02:20,Boston,04/05/2018,02:20,140
+231,1953,Keizo Yamada,Male,Japan,04/05/2018 02:18,Boston,04/05/2018,02:18,138
+232,1952,Doroteo Flores,Male,Guatemala,04/05/2018 02:31,Boston,04/05/2018,02:31,151
+233,1951,Shigeki Tanaka,Male,Japan,04/05/2018 02:27,Boston,04/05/2018,02:27,147
+234,1950,Ham Kee-Yong,Male,South Korea,04/05/2018 02:32,Boston,04/05/2018,02:32,152
+235,1949,Gösta Leandersson,Male,Sweden,04/05/2018 02:31,Boston,04/05/2018,02:31,151
+236,1948,Gérard Côté,Male,Canada,04/05/2018 02:31,Boston,04/05/2018,02:31,151
+237,1947,Suh Yun-bok,Male,South Korea,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+238,1946,Stylianos Kyriakides,Male,Greece,04/05/2018 02:29,Boston,04/05/2018,02:29,149
+239,1945,John A. Kelley,Male,United States,04/05/2018 02:30,Boston,04/05/2018,02:30,150
+240,1944,Gérard Côté,Male,Canada,04/05/2018 02:31,Boston,04/05/2018,02:31,151
+241,1943,Gérard Côté,Male,Canada,04/05/2018 02:28,Boston,04/05/2018,02:28,148
+242,1942,Joe Smith,Male,United States,04/05/2018 02:26,Boston,04/05/2018,02:26,146
+243,1941,Leslie S. Pawson,Male,United States,04/05/2018 02:30,Boston,04/05/2018,02:30,150
+244,1940,Gérard Côté,Male,Canada,04/05/2018 02:28,Boston,04/05/2018,02:28,148
+245,1939,Ellison Brown,Male,United States,04/05/2018 02:28,Boston,04/05/2018,02:28,148
+246,1938,Leslie S. Pawson,Male,United States,04/05/2018 02:35,Boston,04/05/2018,02:35,155
+247,1937,Walter Young,Male,Canada,04/05/2018 02:33,Boston,04/05/2018,02:33,153
+248,1936,Ellison Brown,Male,United States,04/05/2018 02:33,Boston,04/05/2018,02:33,153
+249,1935,John A. Kelley,Male,United States,04/05/2018 02:32,Boston,04/05/2018,02:32,152
+250,1934,Dave Komonen,Male,Canada,04/05/2018 02:32,Boston,04/05/2018,02:32,152
+251,1933,Leslie S. Pawson,Male,United States,04/05/2018 02:31,Boston,04/05/2018,02:31,151
+252,1932,Paul de Bruyn,Male,Germany,04/05/2018 02:33,Boston,04/05/2018,02:33,153
+253,1931,James Henigan,Male,United States,04/05/2018 02:46,Boston,04/05/2018,02:46,166
+254,1930,Clarence DeMar,Male,United States,04/05/2018 02:34,Boston,04/05/2018,02:34,154
+255,1929,Johnny Miles,Male,Canada,04/05/2018 02:33,Boston,04/05/2018,02:33,153
+256,1928,Clarence DeMar,Male,United States,04/05/2018 02:37,Boston,04/05/2018,02:37,157
+257,1927,Clarence DeMar,Male,United States,04/05/2018 02:40,Boston,04/05/2018,02:40,160
+258,1926,Johnny Miles,Male,Canada,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+259,1925,Charles Mellor,Male,United States,04/05/2018 02:33,Boston,04/05/2018,02:33,153
+260,1924,Clarence DeMar,Male,United States,04/05/2018 02:29,Boston,04/05/2018,02:29,149
+261,1923,Clarence DeMar,Male,United States,04/05/2018 02:23,Boston,04/05/2018,02:23,143
+262,1922,Clarence DeMar,Male,United States,04/05/2018 02:18,Boston,04/05/2018,02:18,138
+263,1921,Frank Zuna,Male,United States,04/05/2018 02:18,Boston,04/05/2018,02:18,138
+264,1920,Peter Trivoulides,Male,Greece,04/05/2018 02:29,Boston,04/05/2018,02:29,149
+265,1919,Carl Linder,Male,United States,04/05/2018 02:29,Boston,04/05/2018,02:29,149
+266,1918,,,,,Boston,,,0
+267,1917,Bill Kennedy,Male,United States,04/05/2018 02:28,Boston,04/05/2018,02:28,148
+268,1916,Arthur Roth,Male,United States,04/05/2018 02:27,Boston,04/05/2018,02:27,147
+269,1915,Édouard Fabre,Male,Canada,04/05/2018 02:31,Boston,04/05/2018,02:31,151
+270,1914,James Duffy,Male,Canada,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+271,1913,Fritz Carlson,Male,United States,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+272,1912,Michael J. Ryan,Male,United States,04/05/2018 02:21,Boston,04/05/2018,02:21,141
+273,1911,Clarence DeMar,Male,United States,04/05/2018 02:21,Boston,04/05/2018,02:21,141
+274,1910,Fred Cameron,Male,Canada,04/05/2018 02:28,Boston,04/05/2018,02:28,148
+275,1909,Henri Renaud,Male,United States,04/05/2018 02:53,Boston,04/05/2018,02:53,173
+276,1908,Thomas Morrissey,Male,United States,04/05/2018 02:25,Boston,04/05/2018,02:25,145
+277,1907,Thomas Longboat,Male,Canada,04/05/2018 02:24,Boston,04/05/2018,02:24,144
+278,1906,Tim Ford,Male,United States,04/05/2018 02:45,Boston,04/05/2018,02:45,165
+279,1905,Frederick Lorz,Male,United States,04/05/2018 02:38,Boston,04/05/2018,02:38,158
+280,1904,Michael Spring,Male,United States,04/05/2018 02:38,Boston,04/05/2018,02:38,158
+281,1903,John Lorden,Male,United States,04/05/2018 02:41,Boston,04/05/2018,02:41,161
+282,1902,Sammy Mellor,Male,United States,04/05/2018 02:43,Boston,04/05/2018,02:43,163
+283,1901,Jack Caffery,Male,Canada,04/05/2018 02:29,Boston,04/05/2018,02:29,149
+284,1900,Jack Caffery,Male,Canada,04/05/2018 02:39,Boston,04/05/2018,02:39,159
+285,1899,Lawrence Brignolia,Male,United States,04/05/2018 02:54,Boston,04/05/2018,02:54,174
+286,1898,Ronald J. MacDonald,Male,Canada,04/05/2018 02:42,Boston,04/05/2018,02:42,162
+287,1897,John J. McDermott,Male,United States,04/05/2018 02:55,Boston,04/05/2018,02:55,175
+288,2017,Geoffrey Kamworor,Male,Kenya,04/05/2018 02:10,NYC,04/05/2018,02:10,130
+289,2017,Shalane Flanagan,Female,United States,04/05/2018 02:26,NYC,04/05/2018,02:26,146
+290,2016,Ghirmay Ghebreslassie,Male,Eritrea,04/05/2018 02:07,NYC,04/05/2018,02:07,127
+291,2016,Mary Keitany,Female,Kenya,04/05/2018 02:24,NYC,04/05/2018,02:24,144
+292,2015,Stanley Biwott,Male,Kenya,04/05/2018 02:10,NYC,04/05/2018,02:10,130
+293,2015,Mary Keitany,Female,Kenya,04/05/2018 02:24,NYC,04/05/2018,02:24,144
+294,2014,Wilson Kipsang,Male,Kenya,04/05/2018 02:10,NYC,04/05/2018,02:10,130
+295,2014,Mary Keitany,Female,Kenya,04/05/2018 02:25,NYC,04/05/2018,02:25,145
+296,2013,Geoffrey Mutai,Male,Kenya,04/05/2018 02:08,NYC,04/05/2018,02:08,128
+297,2013,Priscah Jeptoo,Female,Kenya,04/05/2018 02:25,NYC,04/05/2018,02:25,145
+298,2012,,,,,NYC,,,0
+299,2012,,,,,NYC,,,0
+300,2011,Geoffrey Mutai,Male,Kenya,04/05/2018 02:05,NYC,04/05/2018,02:05,125
+301,2011,Firehiwot Dado,Female,Ethiopia,04/05/2018 02:23,NYC,04/05/2018,02:23,143
+302,2010,Gebregziabher Gebremariam,Male,Ethiopia,04/05/2018 02:08,NYC,04/05/2018,02:08,128
+303,2010,Edna Kiplagat,Female,Kenya,04/05/2018 02:28,NYC,04/05/2018,02:28,148
+304,2009,Meb Keflezighi,Male,United States,04/05/2018 02:09,NYC,04/05/2018,02:09,129
+305,2009,Derartu Tulu,Female,Ethiopia,04/05/2018 02:28,NYC,04/05/2018,02:28,148
+306,2008,Marílson Gomes dos Santos,Male,Brazil,04/05/2018 02:08,NYC,04/05/2018,02:08,128
+307,2008,Paula Radcliffe,Female,United Kingdom,04/05/2018 02:23,NYC,04/05/2018,02:23,143
+308,2007,Martin Lel,Male,Kenya,04/05/2018 02:09,NYC,04/05/2018,02:09,129
+309,2007,Paula Radcliffe,Female,United Kingdom,04/05/2018 02:23,NYC,04/05/2018,02:23,143
+310,2006,Marílson Gomes dos Santos,Male,Brazil,04/05/2018 02:09,NYC,04/05/2018,02:09,129
+311,2006,Jelena Prokopcuka,Female,Latvia,04/05/2018 02:25,NYC,04/05/2018,02:25,145
+312,2005,Paul Tergat,Male,Kenya,04/05/2018 02:09,NYC,04/05/2018,02:09,129
+313,2005,Jelena Prokopcuka,Female,Latvia,04/05/2018 02:24,NYC,04/05/2018,02:24,144
+314,2004,Hendrick Ramaala,Male,South Africa,04/05/2018 02:09,NYC,04/05/2018,02:09,129
+315,2004,Paula Radcliffe,Female,United Kingdom,04/05/2018 02:23,NYC,04/05/2018,02:23,143
+316,2003,Martin Lel,Male,Kenya,04/05/2018 02:10,NYC,04/05/2018,02:10,130
+317,2003,Margaret Okayo,Female,Kenya,04/05/2018 02:22,NYC,04/05/2018,02:22,142
+318,2002,Rodgers Rop,Male,Kenya,04/05/2018 02:08,NYC,04/05/2018,02:08,128
+319,2002,Joyce Chepchumba,Female,Kenya,04/05/2018 02:25,NYC,04/05/2018,02:25,145
+320,2001,Tesfaye Jifar,Male,Ethiopia,04/05/2018 02:07,NYC,04/05/2018,02:07,127
+321,2001,Margaret Okayo,Female,Kenya,04/05/2018 02:24,NYC,04/05/2018,02:24,144
+322,2000,Abdelkader El Mouaziz,Male,Morocco,04/05/2018 02:10,NYC,04/05/2018,02:10,130
+323,2000,Lyudmila Petrova,Female,Russia,04/05/2018 02:25,NYC,04/05/2018,02:25,145
+324,1999,Joseph Chebet,Male,Kenya,04/05/2018 02:09,NYC,04/05/2018,02:09,129
+325,1999,Adriana Fernandez,Female,Mexico,04/05/2018 02:25,NYC,04/05/2018,02:25,145
+326,1998,John Kagwe,Male,Kenya,04/05/2018 02:08,NYC,04/05/2018,02:08,128
+327,1998,Franca Fiacconi,Female,Italy,04/05/2018 02:25,NYC,04/05/2018,02:25,145
+328,1997,John Kagwe,Male,Kenya,04/05/2018 02:08,NYC,04/05/2018,02:08,128
+329,1997,Franziska Rochat-Moser,Female,Switzerland,04/05/2018 02:28,NYC,04/05/2018,02:28,148
+330,1996,Giacomo Leone,Male,Italy,04/05/2018 02:09,NYC,04/05/2018,02:09,129
+331,1996,Anuta Catuna,Female,Romania,04/05/2018 02:28,NYC,04/05/2018,02:28,148
+332,1995,Germán Silva,Male,Mexico,04/05/2018 02:11,NYC,04/05/2018,02:11,131
+333,1995,Tegla Loroupe,Female,Kenya,04/05/2018 02:28,NYC,04/05/2018,02:28,148
+334,1994,Germán Silva,Male,Mexico,04/05/2018 02:11,NYC,04/05/2018,02:11,131
+335,1994,Tegla Loroupe,Female,Kenya,04/05/2018 02:27,NYC,04/05/2018,02:27,147
+336,1993,Andrés Espinosa,Male,Mexico,04/05/2018 02:10,NYC,04/05/2018,02:10,130
+337,1993,Uta Pippig,Female,Germany,04/05/2018 02:26,NYC,04/05/2018,02:26,146
+338,1992,Willie Mtolo,Male,South Africa,04/05/2018 02:09,NYC,04/05/2018,02:09,129
+339,1992,Lisa Ondieki,Female,Australia,04/05/2018 02:24,NYC,04/05/2018,02:24,144
+340,1991,Salvador García,Male,Mexico,04/05/2018 02:09,NYC,04/05/2018,02:09,129
+341,1991,Liz McColgan,Female,United Kingdom,04/05/2018 02:27,NYC,04/05/2018,02:27,147
+342,1990,Douglas Wakiihuri,Male,Kenya,04/05/2018 02:12,NYC,04/05/2018,02:12,132
+343,1990,Wanda Panfil,Female,Poland,04/05/2018 02:30,NYC,04/05/2018,02:30,150
+344,1989,Juma Ikangaa,Male,Tanzania,04/05/2018 02:08,NYC,04/05/2018,02:08,128
+345,1989,Ingrid Kristiansen,Female,Norway,04/05/2018 02:25,NYC,04/05/2018,02:25,145
+346,1988,Steve Jones,Male,United Kingdom,04/05/2018 02:08,NYC,04/05/2018,02:08,128
+347,1988,Grete Waitz,Female,Norway,04/05/2018 02:28,NYC,04/05/2018,02:28,148
+348,1987,Ibrahim Hussein,Male,Kenya,04/05/2018 02:11,NYC,04/05/2018,02:11,131
+349,1987,Priscilla Welch,Female,United Kingdom,04/05/2018 02:30,NYC,04/05/2018,02:30,150
+350,1986,Gianni Poli,Male,Italy,04/05/2018 02:11,NYC,04/05/2018,02:11,131
+351,1986,Grete Waitz,Female,Norway,04/05/2018 02:28,NYC,04/05/2018,02:28,148
+352,1985,Orlando Pizzolato,Male,Italy,04/05/2018 02:11,NYC,04/05/2018,02:11,131
+353,1985,Grete Waitz,Female,Norway,04/05/2018 02:28,NYC,04/05/2018,02:28,148
+354,1984,Orlando Pizzolato,Male,Italy,04/05/2018 02:14,NYC,04/05/2018,02:14,134
+355,1984,Grete Waitz,Female,Norway,04/05/2018 02:29,NYC,04/05/2018,02:29,149
+356,1983,Rod Dixon,Male,New Zealand,04/05/2018 02:08,NYC,04/05/2018,02:08,128
+357,1983,Grete Waitz,Female,Norway,04/05/2018 02:27,NYC,04/05/2018,02:27,147
+358,1982,Alberto Salazar,Male,United States,04/05/2018 02:09,NYC,04/05/2018,02:09,129
+359,1982,Grete Waitz,Female,Norway,04/05/2018 02:27,NYC,04/05/2018,02:27,147
+360,1981,Alberto Salazar,Male,United States,04/05/2018 02:08,NYC,04/05/2018,02:08,128
+361,1981,Allison Roe,Female,New Zealand,04/05/2018 02:25,NYC,04/05/2018,02:25,145
+362,1980,Alberto Salazar,Male,United States,04/05/2018 02:09,NYC,04/05/2018,02:09,129
+363,1980,Grete Waitz,Female,Norway,04/05/2018 02:25,NYC,04/05/2018,02:25,145
+364,1979,Bill Rodgers,Male,United States,04/05/2018 02:11,NYC,04/05/2018,02:11,131
+365,1979,Grete Waitz,Female,Norway,04/05/2018 02:27,NYC,04/05/2018,02:27,147
+366,1978,Bill Rodgers,Male,United States,04/05/2018 02:12,NYC,04/05/2018,02:12,132
+367,1978,Grete Waitz,Female,Norway,04/05/2018 02:32,NYC,04/05/2018,02:32,152
+368,1977,Bill Rodgers,Male,United States,04/05/2018 02:11,NYC,04/05/2018,02:11,131
+369,1977,Miki Gorman,Female,United States,04/05/2018 02:43,NYC,04/05/2018,02:43,163
+370,1976,Bill Rodgers,Male,United States,04/05/2018 02:10,NYC,04/05/2018,02:10,130
+371,1976,Miki Gorman,Female,United States,04/05/2018 02:39,NYC,04/05/2018,02:39,159
+372,1975,Tom Fleming,Male,United States,04/05/2018 02:19,NYC,04/05/2018,02:19,139
+373,1975,Kim Merritt,Female,United States,04/05/2018 02:46,NYC,04/05/2018,02:46,166
+374,1974,Norbert Sander,Male,United States,04/05/2018 02:26,NYC,04/05/2018,02:26,146
+375,1974,Kathrine Switzer,Female,United States,04/05/2018 03:07,NYC,04/05/2018,03:07,187
+376,1973,Tom Fleming,Male,United States,04/05/2018 02:21,NYC,04/05/2018,02:21,141
+377,1973,Nina Kuscsik,Female,United States,04/05/2018 02:57,NYC,04/05/2018,02:57,177
+378,1972,Sheldon Karlin,Male,United States,04/05/2018 02:27,NYC,04/05/2018,02:27,147
+379,1972,Nina Kuscsik,Female,United States,04/05/2018 03:08,NYC,04/05/2018,03:08,188
+380,1971,Norman Higgins,Male,United States,04/05/2018 02:22,NYC,04/05/2018,02:22,142
+381,1970,Gary Muhrcke,Male,United States,04/05/2018 02:31,NYC,04/05/2018,02:31,151
+382,2018,Eliud Kipchoge,Male,Kenya,04/05/2018 02:04,London,04/05/2018,02:04,124
+383,2017,Daniel Wanjiru,Male,Kenya,04/05/2018 02:05,London,04/05/2018,02:05,125
+384,2017,Mary Keitany,Female,Kenya,04/05/2018 02:17,London,04/05/2018,02:17,137
+385,2016,Eliud Kipchoge,Male,Kenya,04/05/2018 02:03,London,04/05/2018,02:03,123
+386,2016,Jemima Sumgong,Female,Kenya,04/05/2018 02:22,London,04/05/2018,02:22,142
+387,2015,Eliud Kipchoge,Male,Kenya,04/05/2018 02:04,London,04/05/2018,02:04,124
+388,2015,Tigist Tufa,Female,Ethiopia,04/05/2018 02:23,London,04/05/2018,02:23,143
+389,2014,Wilson Kipsang,Male,Kenya,04/05/2018 02:04,London,04/05/2018,02:04,124
+390,2014,Edna Kiplagat,Female,Kenya,04/05/2018 02:20,London,04/05/2018,02:20,140
+391,2013,Tsegaye Kebede,Male,Ethiopia,04/05/2018 02:06,London,04/05/2018,02:06,126
+392,2013,Priscah Jeptoo,Female,Kenya,04/05/2018 02:20,London,04/05/2018,02:20,140
+393,2012,Wilson Kipsang,Male,Kenya,04/05/2018 02:04,London,04/05/2018,02:04,124
+394,2012,Mary Keitany,Female,Kenya,04/05/2018 02:18,London,04/05/2018,02:18,138
+395,2011,Emmanuel Mutai,Male,Kenya,04/05/2018 02:04,London,04/05/2018,02:04,124
+396,2011,Mary Keitany,Female,Kenya,04/05/2018 02:19,London,04/05/2018,02:19,139
+397,2010,Tsegaye Kebede,Male,Ethiopia,04/05/2018 02:05,London,04/05/2018,02:05,125
+398,2010,Aselefech Mergia,Female,Ethiopia,04/05/2018 02:22,London,04/05/2018,02:22,142
+399,2009,Samuel Wanjiru,Male,Kenya,04/05/2018 02:05,London,04/05/2018,02:05,125
+400,2009,Irina Mikitenko,Female,Germany,04/05/2018 02:22,London,04/05/2018,02:22,142
+401,2008,Martin Lel,Male,Kenya,04/05/2018 02:05,London,04/05/2018,02:05,125
+402,2008,Irina Mikitenko,Female,Germany,04/05/2018 02:24,London,04/05/2018,02:24,144
+403,2007,Martin Lel,Male,Kenya,04/05/2018 02:07,London,04/05/2018,02:07,127
+404,2007,Zhou Chunxiu,Female,China,04/05/2018 02:20,London,04/05/2018,02:20,140
+405,2006,Felix Limo,Male,Kenya,04/05/2018 02:06,London,04/05/2018,02:06,126
+406,2006,Deena Kastor,Female,United States,04/05/2018 02:19,London,04/05/2018,02:19,139
+407,2005,Martin Lel,Male,Kenya,04/05/2018 02:07,London,04/05/2018,02:07,127
+408,2005,Paula Radcliffe,Female,United Kingdom,04/05/2018 02:17,London,04/05/2018,02:17,137
+409,2004,Evans Rutto,Male,Kenya,04/05/2018 02:06,London,04/05/2018,02:06,126
+410,2004,Margaret Okayo,Female,Kenya,04/05/2018 02:22,London,04/05/2018,02:22,142
+411,2003,Gezahegne Abera,Male,Ethiopia,04/05/2018 02:07,London,04/05/2018,02:07,127
+412,2003,Paula Radcliffe,Female,United Kingdom,04/05/2018 02:15,London,04/05/2018,02:15,135
+413,2002,Khalid Khannouchi,Male,United States,04/05/2018 02:05,London,04/05/2018,02:05,125
+414,2002,Paula Radcliffe,Female,United Kingdom,04/05/2018 02:18,London,04/05/2018,02:18,138
+415,2001,Abdelkader El Mouaziz,Male,Morocco,04/05/2018 02:07,London,04/05/2018,02:07,127
+416,2001,Derartu Tulu,Female,Ethiopia,04/05/2018 02:23,London,04/05/2018,02:23,143
+417,2000,António Pinto,Male,Portugal,04/05/2018 02:06,London,04/05/2018,02:06,126
+418,2000,Tegla Laroupe,Female,Kenya,04/05/2018 02:24,London,04/05/2018,02:24,144
+419,1999,Abdelkader El Mouaziz,Male,Morocco,04/05/2018 02:07,London,04/05/2018,02:07,127
+420,1999,Joyce Chepchumba,Female,Kenya,04/05/2018 02:23,London,04/05/2018,02:23,143
+421,1998,Abel Antón,Male,Spain,04/05/2018 02:07,London,04/05/2018,02:07,127
+422,1998,Catherina McKiernan,Female,Ireland,04/05/2018 02:26,London,04/05/2018,02:26,146
+423,1997,António Pinto,Male,Portugal,04/05/2018 02:07,London,04/05/2018,02:07,127
+424,1997,Joyce Chepchumba,Female,Kenya,04/05/2018 02:26,London,04/05/2018,02:26,146
+425,1996,Dionicio Cerón,Male,Mexico,04/05/2018 02:10,London,04/05/2018,02:10,130
+426,1996,Liz McColgan,Female,United Kingdom,04/05/2018 02:27,London,04/05/2018,02:27,147
+427,1995,Dionicio Cerón,Male,Mexico,04/05/2018 02:08,London,04/05/2018,02:08,128
+428,1995,Malgorzata Sobanska,Female,Poland,04/05/2018 02:27,London,04/05/2018,02:27,147
+429,1994,Dionicio Cerón,Male,Mexico,04/05/2018 02:08,London,04/05/2018,02:08,128
+430,1994,Katrin Dörre-Heinig,Female,Germany,04/05/2018 02:32,London,04/05/2018,02:32,152
+431,1993,Eamonn Martin,Male,United Kingdom,04/05/2018 02:10,London,04/05/2018,02:10,130
+432,1993,Katrin Dörre-Heinig,Female,Germany,04/05/2018 02:27,London,04/05/2018,02:27,147
+433,1992,António Pinto,Male,Portugal,04/05/2018 02:10,London,04/05/2018,02:10,130
+434,1992,Katrin Dörre-Heinig,Female,Germany,04/05/2018 02:29,London,04/05/2018,02:29,149
+435,1991,Yakov Tolstikov,Male,Soviet Union,04/05/2018 02:09,London,04/05/2018,02:09,129
+436,1991,Rosa Mota,Female,Portugal,04/05/2018 02:26,London,04/05/2018,02:26,146
+437,1990,Allister Hutton,Male,United Kingdom,04/05/2018 02:10,London,04/05/2018,02:10,130
+438,1990,Wanda Panfil,Female,Poland,04/05/2018 02:26,London,04/05/2018,02:26,146
+439,1989,Douglas Wakiihuri,Male,Kenya,04/05/2018 02:09,London,04/05/2018,02:09,129
+440,1989,Véronique Marot,Female,United Kingdom,04/05/2018 02:25,London,04/05/2018,02:25,145
+441,1988,Henrik Jørgensen,Male,Denmark,04/05/2018 02:10,London,04/05/2018,02:10,130
+442,1988,Ingrid Kristiansen,Female,Norway,04/05/2018 02:25,London,04/05/2018,02:25,145
+443,1987,Hiromi Taniguchi,Male,Japan,04/05/2018 02:09,London,04/05/2018,02:09,129
+444,1987,Ingrid Kristiansen,Female,Norway,04/05/2018 02:22,London,04/05/2018,02:22,142
+445,1986,Toshihiko Seko,Male,Japan,04/05/2018 02:10,London,04/05/2018,02:10,130
+446,1986,Grete Waitz,Female,Norway,04/05/2018 02:24,London,04/05/2018,02:24,144
+447,1985,Steve Jones,Male,United Kingdom,04/05/2018 02:08,London,04/05/2018,02:08,128
+448,1985,Ingrid Kristiansen,Female,Norway,04/05/2018 02:21,London,04/05/2018,02:21,141
+449,1984,Charlie Spedding,Male,United Kingdom,04/05/2018 02:09,London,04/05/2018,02:09,129
+450,1984,Ingrid Kristiansen,Female,Norway,04/05/2018 02:24,London,04/05/2018,02:24,144
+451,1983,Mike Gratton,Male,United Kingdom,04/05/2018 02:09,London,04/05/2018,02:09,129
+452,1983,Grete Waitz,Female,Norway,04/05/2018 02:25,London,04/05/2018,02:25,145
+453,1982,Hugh Jones,Male,United Kingdom,04/05/2018 02:09,London,04/05/2018,02:09,129
+454,1982,Joyce Smith,Female,United Kingdom,04/05/2018 02:29,London,04/05/2018,02:29,149
+455,1981,Dick Beardsley,Male,United States,04/05/2018 02:11,London,04/05/2018,02:11,131
+456,1981,Inge Simonsen,Male,Norway,04/05/2018 02:11,London,04/05/2018,02:11,131
+457,1981,Joyce Smith,Female,United Kingdom,04/05/2018 02:29,London,04/05/2018,02:29,149
+458,2017,Galen Rupp,Male,United States,04/05/2018 02:09,Chicago,04/05/2018,02:09,129
+459,2017,Tirunesh Dibaba,Female,Ethiopia,04/05/2018 02:18,Chicago,04/05/2018,02:18,138
+460,2016,Abel Kirui,Male,Kenya,04/05/2018 02:11,Chicago,04/05/2018,02:11,131
+461,2016,Florence Kiplagat,Female,Kenya,04/05/2018 02:21,Chicago,04/05/2018,02:21,141
+462,2015,Dickson Chumba,Male,Kenya,04/05/2018 02:09,Chicago,04/05/2018,02:09,129
+463,2015,Florence Kiplagat,Female,Kenya,04/05/2018 02:23,Chicago,04/05/2018,02:23,143
+464,2014,Eliud Kipchoge,Male,Kenya,04/05/2018 02:04,Chicago,04/05/2018,02:04,124
+465,2014,Mare Dibaba,Female,Ethiopia,04/05/2018 02:25,Chicago,04/05/2018,02:25,145
+466,2013,Dennis Kimetto,Male,Kenya,04/05/2018 02:03,Chicago,04/05/2018,02:03,123
+467,2013,Rita Jeptoo,Female,Kenya,04/05/2018 02:19,Chicago,04/05/2018,02:19,139
+468,2012,Tsegaye Kebede,Male,Ethiopia,04/05/2018 02:04,Chicago,04/05/2018,02:04,124
+469,2012,Atsede Baysa,Female,Ethiopia,04/05/2018 02:22,Chicago,04/05/2018,02:22,142
+470,2011,Moses Mosop,Male,Kenya,04/05/2018 02:05,Chicago,04/05/2018,02:05,125
+471,2011,Ejegayehu Dibaba,Female,Ethiopia,04/05/2018 02:22,Chicago,04/05/2018,02:22,142
+472,2010,Samuel Wanjiru,Male,Kenya,04/05/2018 02:06,Chicago,04/05/2018,02:06,126
+473,2010,Atsede Baysa,Female,Ethiopia,04/05/2018 02:23,Chicago,04/05/2018,02:23,143
+474,2009,Samuel Wanjiru,Male,Kenya,04/05/2018 02:05,Chicago,04/05/2018,02:05,125
+475,2009,Irina Mikitenko,Female,Germany,04/05/2018 02:26,Chicago,04/05/2018,02:26,146
+476,2008,Evans Cheruiyot,Male,Kenya,04/05/2018 02:06,Chicago,04/05/2018,02:06,126
+477,2008,Lidiya Grigoryeva,Female,Russia,04/05/2018 02:27,Chicago,04/05/2018,02:27,147
+478,2007,Patrick Ivuti,Male,Kenya,04/05/2018 02:11,Chicago,04/05/2018,02:11,131
+479,2007,Berhane Adere,Female,Ethiopia,04/05/2018 02:33,Chicago,04/05/2018,02:33,153
+480,2006,Robert Cheruiyot,Male,Kenya,04/05/2018 02:07,Chicago,04/05/2018,02:07,127
+481,2006,Berhane Adere,Female,Ethiopia,04/05/2018 02:20,Chicago,04/05/2018,02:20,140
+482,2005,Felix Limo,Male,Kenya,04/05/2018 02:07,Chicago,04/05/2018,02:07,127
+483,2005,Deena Kastor,Female,United States,04/05/2018 02:21,Chicago,04/05/2018,02:21,141
+484,2004,Evans Rutto,Male,Kenya,04/05/2018 02:06,Chicago,04/05/2018,02:06,126
+485,2004,"Dita, Constantina",Female,Romania,04/05/2018 02:23,Chicago,04/05/2018,02:23,143
+486,2003,Evans Rutto,Male,Kenya,04/05/2018 02:05,Chicago,04/05/2018,02:05,125
+487,2003,Svetlana Zakharova,Female,Russia,04/05/2018 02:23,Chicago,04/05/2018,02:23,143
+488,2002,Khalid Khannouchi,Male,United States,04/05/2018 02:05,Chicago,04/05/2018,02:05,125
+489,2002,Paula Radcliffe,Female,United Kingdom,04/05/2018 02:17,Chicago,04/05/2018,02:17,137
+490,2001,Ben Kimondiu,Male,Kenya,04/05/2018 02:08,Chicago,04/05/2018,02:08,128
+491,2001,Catherine Ndereba,Female,Kenya,04/05/2018 02:18,Chicago,04/05/2018,02:18,138
+492,2000,Khalid Khannouchi,Male,United States,04/05/2018 02:07,Chicago,04/05/2018,02:07,127
+493,2000,Catherine Ndereba,Female,Kenya,04/05/2018 02:21,Chicago,04/05/2018,02:21,141
+494,1999,Khalid Khannouchi,Male,Morocco,04/05/2018 02:05,Chicago,04/05/2018,02:05,125
+495,1999,Joyce Chepchumba,Female,Kenya,04/05/2018 02:25,Chicago,04/05/2018,02:25,145
+496,1998,Ondoro Osoro,Male,Kenya,04/05/2018 02:06,Chicago,04/05/2018,02:06,126
+497,1998,Joyce Chepchumba,Female,Kenya,04/05/2018 02:23,Chicago,04/05/2018,02:23,143
+498,1997,Khalid Khannouchi,Male,Morocco,04/05/2018 02:07,Chicago,04/05/2018,02:07,127
+499,1997,Marian Sutton,Female,United Kingdom,04/05/2018 02:29,Chicago,04/05/2018,02:29,149
+500,1996,Paul Evans,Male,United Kingdom,04/05/2018 02:08,Chicago,04/05/2018,02:08,128
+501,1996,Marian Sutton,Female,United Kingdom,04/05/2018 02:30,Chicago,04/05/2018,02:30,150
+502,1995,Eamonn Martin,Male,United Kingdom,04/05/2018 02:11,Chicago,04/05/2018,02:11,131
+503,1995,Ritva Lemettinen,Female,Finland,04/05/2018 02:28,Chicago,04/05/2018,02:28,148
+504,1994,Luíz Antônio,Male,Brazil,04/05/2018 02:11,Chicago,04/05/2018,02:11,131
+505,1994,Kristy Johnston,Female,United States,04/05/2018 02:31,Chicago,04/05/2018,02:31,151
+506,1993,Luíz Antônio,Male,Brazil,04/05/2018 02:13,Chicago,04/05/2018,02:13,133
+507,1993,Ritva Lemettinen,Female,Finland,04/05/2018 02:33,Chicago,04/05/2018,02:33,153
+508,1992,José Cesar de Souza,Male,Brazil,04/05/2018 02:16,Chicago,04/05/2018,02:16,136
+509,1992,Linda Somers,Female,United States,04/05/2018 02:37,Chicago,04/05/2018,02:37,157
+510,1991,Joseildo Rocha,Male,Brazil,04/05/2018 02:14,Chicago,04/05/2018,02:14,134
+511,1991,Midde Hamrin,Female,Sweden,04/05/2018 02:36,Chicago,04/05/2018,02:36,156
+512,1990,Martín Pitayo,Male,Mexico,04/05/2018 02:09,Chicago,04/05/2018,02:09,129
+513,1990,Aurora Cunha,Female,Portugal,04/05/2018 02:30,Chicago,04/05/2018,02:30,150
+514,1989,Paul Davies-Hale,Male,United Kingdom,04/05/2018 02:11,Chicago,04/05/2018,02:11,131
+515,1989,Lisa Weidenbach,Female,United States,04/05/2018 02:28,Chicago,04/05/2018,02:28,148
+516,1988,Alejandro Cruz,Male,Mexico,04/05/2018 02:08,Chicago,04/05/2018,02:08,128
+517,1988,Lisa Weidenbach,Female,United States,04/05/2018 02:29,Chicago,04/05/2018,02:29,149
+518,1987,,,,,Chicago,,,0
+519,1987,,,,,Chicago,,,0
+520,1986,Toshihiko Seko,Male,Japan,04/05/2018 02:08,Chicago,04/05/2018,02:08,128
+521,1986,Ingrid Kristiansen,Female,Norway,04/05/2018 02:27,Chicago,04/05/2018,02:27,147
+522,1985,Steve Jones,Male,United Kingdom,04/05/2018 02:07,Chicago,04/05/2018,02:07,127
+523,1985,Joan Benoit,Female,United States,04/05/2018 02:21,Chicago,04/05/2018,02:21,141
+524,1984,Steve Jones,Male,United Kingdom,04/05/2018 02:08,Chicago,04/05/2018,02:08,128
+525,1984,Rosa Mota,Female,Portugal,04/05/2018 02:26,Chicago,04/05/2018,02:26,146
+526,1983,Joseph Nzau,Male,Kenya,04/05/2018 02:09,Chicago,04/05/2018,02:09,129
+527,1983,Rosa Mota,Female,Portugal,04/05/2018 02:31,Chicago,04/05/2018,02:31,151
+528,1982,Greg Meyer,Male,United States,04/05/2018 02:10,Chicago,04/05/2018,02:10,130
+529,1982,Nancy Conz,Female,United States,04/05/2018 02:33,Chicago,04/05/2018,02:33,153
+530,1981,Phil Coppess,Male,United States,04/05/2018 02:16,Chicago,04/05/2018,02:16,136
+531,1981,Tina Gandy,Female,United States,04/05/2018 02:49,Chicago,04/05/2018,02:49,169
+532,1980,Frank Richardson,Male,United States,04/05/2018 02:14,Chicago,04/05/2018,02:14,134
+533,1980,Sue Peterson,Female,United States,04/05/2018 02:45,Chicago,04/05/2018,02:45,165
+534,1979,Dan Cloeter,Male,United States,04/05/2018 02:23,Chicago,04/05/2018,02:23,143
+535,1979,Laura Michalek,Female,United States,04/05/2018 03:15,Chicago,04/05/2018,03:15,195
+536,1978,Mark Stanforth,Male,United States,04/05/2018 02:19,Chicago,04/05/2018,02:19,139
+537,1978,Lynae Larson,Female,United States,04/05/2018 02:59,Chicago,04/05/2018,02:59,179
+538,1977,Dan Cloeter,Male,United States,04/05/2018 02:17,Chicago,04/05/2018,02:17,137
+539,1977,Dorothy Doolittle,Female,United States,04/05/2018 02:50,Chicago,04/05/2018,02:50,170
+540,2018,Vivian Cheruiyot,Female,Kenya,04/05/2018 02:18,London,04/05/2018,02:18,138
